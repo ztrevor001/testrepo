@@ -1,2 +1,4 @@
 # testrepo
-used in association with IBM Developer coursework. 
+Used in association with IBM Developer coursework. 
+
+Its a markdown file in this repository. 
